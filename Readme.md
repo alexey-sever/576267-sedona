@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Алексей Север](https://up.htmlacademy.ru/htmlcss/20/user/576267).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Кошара](https://htmlacademy.ru/profile/rednaxxxela).
 
 ---
 
